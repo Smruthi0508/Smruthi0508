@@ -31,11 +31,6 @@ I'm an enthusiastic AI & Data Science student passionate about building intellig
 - Git, GitHub, VS Code, Jupyter Notebook, MySQL, ChromaDB
 
 ---
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Smruthi0508&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smruthi0508&layout=compact&hide_border=true)
 
 ## 💻 Technologies & Tools
 
