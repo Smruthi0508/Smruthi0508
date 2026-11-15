@@ -76,7 +76,7 @@ A machine learning project that analyzes student data and predicts examination p
 
 ## 🏆 Certifications & Achievements
 
-- IBM SkillsBuild – AI Fundamentals: Foundations for Understanding
+- - [IBM SkillsBuild – AI Fundamentals: Foundations for Understanding](https://www.credly.com/badges/cc68c774-757b-4ac3-9ac8-1bf7b774fea9/public_url)
 - Infosys Certification – Data Structures & Algorithms
 - International Youth Math Challenge
 - AICTE Activity – Teaching & Rural Skill Development
