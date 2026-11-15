@@ -76,12 +76,12 @@ A machine learning project that analyzes student data and predicts examination p
 
 ## 🏆 Certifications & Achievements
 
+- IBM SkillsBuild – AI Fundamentals: Foundations for Understanding
 - Infosys Certification – Data Structures & Algorithms
 - International Youth Math Challenge
 - AICTE Activity – Teaching & Rural Skill Development
 - AICTE Activity – Waste & Water Management Awareness
-- Volunteer – Bengaluru Climate Summit
-- NSS Club Organizer
+- Brand Ambassador – Bengaluru Climate Summit
 
 ---
 
